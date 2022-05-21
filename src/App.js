@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Dictionary />
-        <button className='btn btn-primary'>Hello World</button>
       </header>
     </div>
   );
