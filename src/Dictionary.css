@@ -11,7 +11,7 @@ input {
     border-radius: 10px;
     border-width: 4px;
     box-shadow: 2px 2px 10px rgb(126, 126, 126);
-    width: 50%;
+    width: 100%;
 }
 section {
     padding: 20px;
