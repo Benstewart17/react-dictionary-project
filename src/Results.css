@@ -1,3 +1,6 @@
 .Results{
     padding-left: 70px;
 }
+h2 {
+    text-transform: capitalize;
+}
